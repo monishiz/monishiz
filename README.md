@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @monishiz
-- 👀 I’m interested in  learning new ideas.
+- 👋 Hi, I’m @monicah mamu
+- 👀 I’m interested in  learning web development.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
